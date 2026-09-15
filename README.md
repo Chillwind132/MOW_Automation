@@ -24,6 +24,7 @@ requires Robz Realism and the specified map and armies to be available. Enable
 the mod in-game first and select the map in the multiplayer lobby before your
 first automatic run: `--expected-map` checks the remembered map; it does not
 download or select it for you.
+
 Install dependencies with `py -m pip install -r requirements.txt`.
 
 Open PowerShell in the project root. The supported entry point is
@@ -84,29 +85,3 @@ the game open; an independent replay watcher may continue importing finals.
 - [Rating policy](docs/RATINGS.md)
 - [Project structure](docs/STRUCTURE.md) and [module contracts](docs/MODULES.md)
 - [Public-release notes](docs/PUBLISHING.md)
-
-## Development
-
-### Release validation (September 14, 2026)
-
-Validated on Windows with Python 3.14 and a fresh dependency environment:
-
-| README command | Verified |
-| --- | --- |
-| Record-only | Cold game launch, Frida attachment, observation at the menu and in a live lobby, clean timed stop |
-| Automatic host | Lobby creation, minimized spectator host, four slots, requested map and armies, readiness checks, and greeting a joining player |
-| Review server | Exact command opened the browser; HTML and JSON routes served all 93 sample matches |
-
-Hosting smoke runs used `--run-seconds` to stop after a short observation period.
-All **475 regression tests passed** in that environment. These checks did not
-play a complete multiplayer match or validate the post-match restart loop.
-
-Active hosting code lives in `headless/`, shared readers and writers in
-`modules/`, optional diagnostics in `diagnostics/`, and regression tests in
-`tests/`. Local archives, tools, and run evidence are excluded from publication.
-
-Run `py tests/run.py` for regression tests and
-`node --check headless/headless_host.js` for bridge syntax validation.
-Node.js is required for JavaScript harness tests. Tests use temporary databases
-and anonymized fixtures; they do not launch the game. Some native-layout checks
-skip when a local game executable is unavailable.
