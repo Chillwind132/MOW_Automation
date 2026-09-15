@@ -3,9 +3,12 @@
 Python and Frida automation for **Men of War: Assault Squad 2**: host matches,
 record results, and review games and ratings in your browser.
 
-**Alpha software.** There are rough edges and some development slop. All core
-MOW interfaces are implemented and working: lobby control, match recording,
-replay results, chat, and review. Unattended stability and recent lifecycle
+> [!NOTE]
+> **Alpha software.** There are rough edges and some development slop. All core
+> MOW interfaces are implemented and working: lobby control, match recording,
+> replay results, chat, and review.
+
+Unattended stability and recent lifecycle
 changes still need live validation; experimental tactical AI remains gated.
 See [current status and known limits](docs/STATUS.md).
 
