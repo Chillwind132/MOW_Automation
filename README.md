@@ -11,6 +11,12 @@ See [current status and known limits](docs/STATUS.md).
 
 This controls an installed copy of the game. It is not a standalone server.
 
+<img width="1660" height="676" alt="image" src="https://github.com/user-attachments/assets/321d6cfd-c284-478d-8af7-e07cf5a0968a" />
+
+<img width="1665" height="923" alt="image" src="https://github.com/user-attachments/assets/da5758d9-56a5-44fe-b6a6-82454d03360d" />
+
+
+
 ## Setup
 
 Use Windows with Python, Steam, and Men of War: Assault Squad 2 installed.
