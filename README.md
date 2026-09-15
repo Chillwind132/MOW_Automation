@@ -1,6 +1,6 @@
 # MOW Automation
 
-Python and Frida automation for **Men of War: Assault Squad 2**: host matches,
+Python automation for **Men of War: Assault Squad 2**: host matches,
 record results, and review games and ratings in your browser.
 
 > [!NOTE]
@@ -52,13 +52,11 @@ py headless_host.py friends-host --minimize --min-players 4 --rating-profile rob
 ```
 
 Runs a minimized spectator host for four playing slots, with Russian Guards on
-Team A and Germany on Team B. Start it before other players join. Normal starts
-require a full, balanced, ready lobby with matching settings. All ready players
+Team A and Germany on Team B. All ready players
 on opposing teams can unanimously type `/start` to start early.
 
 After saving a completed match and returning to the lobby, automatic hosting
-restarts the game and prepares a new lobby. **Players must rejoin.** This restart
-flow has offline tests; live multi-match validation is still pending.
+restarts the game and prepares a new lobby. 
 
 ## 3. Review saved results
 
@@ -70,9 +68,9 @@ Opens a local browser service for saved matches, player statistics, and ratings.
 Keep its terminal open; the page refreshes every five seconds. Use the match
 settings button to record a winner and reason when the result is undetermined.
 
-Your results stay in `data/rankbot.sqlite3`. Keep the whole `data/` folder when
-updating or moving your installation, including its archived replays.
-Your local database is excluded from Git; the public sample is a separate copy.
+Your results stay in `data/rankbot.sqlite3`.
+
+---
 
 Ctrl+C stops the controller or review service. Stopping the controller leaves
 the game open; an independent replay watcher may continue importing finals.
