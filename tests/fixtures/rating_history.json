@@ -1,0 +1,1882 @@
+[
+  {
+    "id": "b85905e2-e9f6-42c9-a0cb-72861b5e07a3",
+    "metadata": {
+      "created_at": 1788641667.2882786,
+      "participants": [
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player11",
+          "native_member_id": 2,
+          "participant_key": "steam:76561190000001004",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001004"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player25",
+          "native_member_id": 3,
+          "participant_key": "steam:76561190000001009",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001009"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player14",
+          "native_member_id": 4,
+          "participant_key": "steam:76561190000001002",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001002"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player09",
+          "native_member_id": 5,
+          "participant_key": "steam:76561190000001017",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001017"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player13",
+          "native_member_id": 6,
+          "participant_key": "steam:76561190000001005",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001005"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player06",
+          "native_member_id": 7,
+          "participant_key": "steam:76561190000001020",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001020"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player04",
+          "native_member_id": 8,
+          "participant_key": "steam:76561190000001015",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001015"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player23",
+          "native_member_id": 9,
+          "participant_key": "steam:76561190000001011",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001011"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player03",
+          "native_member_id": 10,
+          "participant_key": "steam:76561190000001007",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001007"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player12",
+          "native_member_id": 11,
+          "participant_key": "steam:76561190000001003",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001003"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player01",
+          "native_member_id": 12,
+          "participant_key": "steam:76561190000001012",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001012"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player05",
+          "native_member_id": 14,
+          "participant_key": "steam:76561190000001019",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001019"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player18",
+          "native_member_id": 15,
+          "participant_key": "steam:76561190000001001",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001001"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player17",
+          "native_member_id": 17,
+          "participant_key": "steam:76561190000001022",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001022"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player26",
+          "native_member_id": 18,
+          "participant_key": "steam:76561190000001016",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001016"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player22",
+          "native_member_id": 19,
+          "participant_key": "steam:76561190000001014",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001014"
+        }
+      ],
+      "map": "multi/8v8_river_valley:battle_zones",
+      "start_observation": "lobby_then_loaded"
+    },
+    "finish": {
+      "engine_outcome": {
+        "raw_title": "B Team wins!",
+        "winning_team": "b"
+      },
+      "paired_counter_meanings": null,
+      "rows": [
+        {
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)> 1428  <c(dgred)>1371 ",
+              "text": "1428  1371",
+              "values_in_display_order": [
+                1428,
+                1371
+              ]
+            },
+            "player": {
+              "raw": "Team B",
+              "text": "Team B",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>73517",
+              "text": "73517",
+              "values_in_display_order": [
+                73517
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>  120  <c(dgred)>122  ",
+              "text": "120  122",
+              "values_in_display_order": [
+                120,
+                122
+              ]
+            },
+            "victory_points": {
+              "raw": "<x.>177",
+              "text": "177",
+              "values_in_display_order": [
+                177
+              ]
+            }
+          },
+          "kind": "team",
+          "row_id": "tb",
+          "steam_id": null
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  232  <c(dgred)>99   ",
+              "text": "232  99",
+              "values_in_display_order": [
+                232,
+                99
+              ]
+            },
+            "player": {
+              "raw": "Player03",
+              "text": "Player03",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>15264",
+              "text": "15264",
+              "values_in_display_order": [
+                15264
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   26  <c(dgred)>12   ",
+              "text": "26  12",
+              "values_in_display_order": [
+                26,
+                12
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 10,
+          "participant_key": "steam:76561190000001007",
+          "row_id": "p10",
+          "steam_id": "76561190000001007"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  209  <c(dgred)>219  ",
+              "text": "209  219",
+              "values_in_display_order": [
+                209,
+                219
+              ]
+            },
+            "player": {
+              "raw": "<c(fece99)>Player17",
+              "text": "Player17",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>12236",
+              "text": "12236",
+              "values_in_display_order": [
+                12236
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   14  <c(dgred)>16   ",
+              "text": "14  16",
+              "values_in_display_order": [
+                14,
+                16
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 17,
+          "participant_key": "steam:76561190000001022",
+          "row_id": "p17",
+          "steam_id": "76561190000001022"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  215  <c(dgred)>224  ",
+              "text": "215  224",
+              "values_in_display_order": [
+                215,
+                224
+              ]
+            },
+            "player": {
+              "raw": "Player22",
+              "text": "Player22",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>10516",
+              "text": "10516",
+              "values_in_display_order": [
+                10516
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   22  <c(dgred)>19   ",
+              "text": "22  19",
+              "values_in_display_order": [
+                22,
+                19
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 19,
+          "participant_key": "steam:76561190000001014",
+          "row_id": "p19",
+          "steam_id": "76561190000001014"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  168  <c(dgred)>122  ",
+              "text": "168  122",
+              "values_in_display_order": [
+                168,
+                122
+              ]
+            },
+            "player": {
+              "raw": "Player05",
+              "text": "Player05",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>9673",
+              "text": "9673",
+              "values_in_display_order": [
+                9673
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   15  <c(dgred)>19   ",
+              "text": "15  19",
+              "values_in_display_order": [
+                15,
+                19
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 14,
+          "participant_key": "steam:76561190000001019",
+          "row_id": "p14",
+          "steam_id": "76561190000001019"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  164  <c(dgred)>117  ",
+              "text": "164  117",
+              "values_in_display_order": [
+                164,
+                117
+              ]
+            },
+            "player": {
+              "raw": "Player01",
+              "text": "Player01",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>7879",
+              "text": "7879",
+              "values_in_display_order": [
+                7879
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   14  <c(dgred)>13   ",
+              "text": "14  13",
+              "values_in_display_order": [
+                14,
+                13
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 12,
+          "participant_key": "steam:76561190000001012",
+          "row_id": "p12",
+          "steam_id": "76561190000001012"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  114  <c(dgred)>132  ",
+              "text": "114  132",
+              "values_in_display_order": [
+                114,
+                132
+              ]
+            },
+            "player": {
+              "raw": "Player23",
+              "text": "Player23",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>7451",
+              "text": "7451",
+              "values_in_display_order": [
+                7451
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   15  <c(dgred)>12   ",
+              "text": "15  12",
+              "values_in_display_order": [
+                15,
+                12
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 9,
+          "participant_key": "steam:76561190000001011",
+          "row_id": "p9",
+          "steam_id": "76561190000001011"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  170  <c(dgred)>207  ",
+              "text": "170  207",
+              "values_in_display_order": [
+                170,
+                207
+              ]
+            },
+            "player": {
+              "raw": "Player12",
+              "text": "Player12",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>6919",
+              "text": "6919",
+              "values_in_display_order": [
+                6919
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>    9  <c(dgred)>17   ",
+              "text": "9  17",
+              "values_in_display_order": [
+                9,
+                17
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 11,
+          "participant_key": "steam:76561190000001003",
+          "row_id": "p11",
+          "steam_id": "76561190000001003"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  156  <c(dgred)>251  ",
+              "text": "156  251",
+              "values_in_display_order": [
+                156,
+                251
+              ]
+            },
+            "player": {
+              "raw": "Player18",
+              "text": "Player18",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>3577",
+              "text": "3577",
+              "values_in_display_order": [
+                3577
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>    5  <c(dgred)>14   ",
+              "text": "5  14",
+              "values_in_display_order": [
+                5,
+                14
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 15,
+          "participant_key": "steam:76561190000001001",
+          "row_id": "p15",
+          "steam_id": "76561190000001001"
+        },
+        {
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)> 1287  <c(dgred)>1471 ",
+              "text": "1287  1471",
+              "values_in_display_order": [
+                1287,
+                1471
+              ]
+            },
+            "player": {
+              "raw": "Team A",
+              "text": "Team A",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>89637",
+              "text": "89637",
+              "values_in_display_order": [
+                89637
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>  118  <c(dgred)>125  ",
+              "text": "118  125",
+              "values_in_display_order": [
+                118,
+                125
+              ]
+            },
+            "victory_points": {
+              "raw": "<x.>62",
+              "text": "62",
+              "values_in_display_order": [
+                62
+              ]
+            }
+          },
+          "kind": "team",
+          "row_id": "ta",
+          "steam_id": null
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  197  <c(dgred)>176  ",
+              "text": "197  176",
+              "values_in_display_order": [
+                197,
+                176
+              ]
+            },
+            "player": {
+              "raw": "Player04",
+              "text": "Player04",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>25203",
+              "text": "25203",
+              "values_in_display_order": [
+                25203
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   27  <c(dgred)>14   ",
+              "text": "27  14",
+              "values_in_display_order": [
+                27,
+                14
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 8,
+          "participant_key": "steam:76561190000001015",
+          "row_id": "p8",
+          "steam_id": "76561190000001015"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  180  <c(dgred)>246  ",
+              "text": "180  246",
+              "values_in_display_order": [
+                180,
+                246
+              ]
+            },
+            "player": {
+              "raw": "Player25",
+              "text": "Player25",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>14943",
+              "text": "14943",
+              "values_in_display_order": [
+                14943
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   12  <c(dgred)>20   ",
+              "text": "12  20",
+              "values_in_display_order": [
+                12,
+                20
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 3,
+          "participant_key": "steam:76561190000001009",
+          "row_id": "p3",
+          "steam_id": "76561190000001009"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  147  <c(dgred)>207  ",
+              "text": "147  207",
+              "values_in_display_order": [
+                147,
+                207
+              ]
+            },
+            "player": {
+              "raw": "Player11",
+              "text": "Player11",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>12971",
+              "text": "12971",
+              "values_in_display_order": [
+                12971
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   19  <c(dgred)>19   ",
+              "text": "19  19",
+              "values_in_display_order": [
+                19,
+                19
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 2,
+          "participant_key": "steam:76561190000001004",
+          "row_id": "p2",
+          "steam_id": "76561190000001004"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  190  <c(dgred)>233  ",
+              "text": "190  233",
+              "values_in_display_order": [
+                190,
+                233
+              ]
+            },
+            "player": {
+              "raw": "Player09",
+              "text": "Player09",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>11218",
+              "text": "11218",
+              "values_in_display_order": [
+                11218
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   15  <c(dgred)>15   ",
+              "text": "15  15",
+              "values_in_display_order": [
+                15,
+                15
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 5,
+          "participant_key": "steam:76561190000001017",
+          "row_id": "p5",
+          "steam_id": "76561190000001017"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  211  <c(dgred)>262  ",
+              "text": "211  262",
+              "values_in_display_order": [
+                211,
+                262
+              ]
+            },
+            "player": {
+              "raw": "Player06",
+              "text": "Player06",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>9131",
+              "text": "9131",
+              "values_in_display_order": [
+                9131
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   23  <c(dgred)>29   ",
+              "text": "23  29",
+              "values_in_display_order": [
+                23,
+                29
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 7,
+          "participant_key": "steam:76561190000001020",
+          "row_id": "p7",
+          "steam_id": "76561190000001020"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  102  <c(dgred)>75   ",
+              "text": "102  75",
+              "values_in_display_order": [
+                102,
+                75
+              ]
+            },
+            "player": {
+              "raw": "Player13",
+              "text": "Player13",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>6435",
+              "text": "6435",
+              "values_in_display_order": [
+                6435
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   10  <c(dgred)>3    ",
+              "text": "10  3",
+              "values_in_display_order": [
+                10,
+                3
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 6,
+          "participant_key": "steam:76561190000001005",
+          "row_id": "p6",
+          "steam_id": "76561190000001005"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  148  <c(dgred)>98   ",
+              "text": "148  98",
+              "values_in_display_order": [
+                148,
+                98
+              ]
+            },
+            "player": {
+              "raw": "Player26",
+              "text": "Player26",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>5323",
+              "text": "5323",
+              "values_in_display_order": [
+                5323
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>    7  <c(dgred)>12   ",
+              "text": "7  12",
+              "values_in_display_order": [
+                7,
+                12
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 18,
+          "participant_key": "steam:76561190000001016",
+          "row_id": "p18",
+          "steam_id": "76561190000001016"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  112  <c(dgred)>174  ",
+              "text": "112  174",
+              "values_in_display_order": [
+                112,
+                174
+              ]
+            },
+            "player": {
+              "raw": "Player14",
+              "text": "Player14",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>4412",
+              "text": "4412",
+              "values_in_display_order": [
+                4412
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>    5  <c(dgred)>13   ",
+              "text": "5  13",
+              "values_in_display_order": [
+                5,
+                13
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 4,
+          "participant_key": "steam:76561190000001002",
+          "row_id": "p4",
+          "steam_id": "76561190000001002"
+        }
+      ],
+      "schema_version": 2,
+      "source": "native_in_game_result_ui",
+      "unavailable_fields": [
+        "resources"
+      ]
+    },
+    "finish_roster": {
+      "slots": [
+        {
+          "address": "0xa4563b20",
+          "memberIdRaw": 2,
+          "rawHex": "50e7d80001000000010000005e5f6892610029006300280066003800630066003900310029007000280030002900650001007300303b56a4303b56a4770029003e002b0020003100010000001f000000000000000200000000005000",
+          "slotIdRaw": 1,
+          "stateRaw": 0,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 1
+        },
+        {
+          "address": "0xa4563320",
+          "memberIdRaw": 3,
+          "rawHex": "50e7d80002000000020000005e5f68926100720072006f0077002900730028003100360029006300280065003500650001006400303356a4303356a4650028007300680061006400010000001f000000000000000300000000002000",
+          "slotIdRaw": 2,
+          "stateRaw": 0,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 2
+        },
+        {
+          "address": "0xa4563940",
+          "memberIdRaw": 4,
+          "rawHex": "50e7d80003000000030000005e5f6892610029007300280031003600290063002800390036006200620064003900290001003c00503956a4503956a4610064006f00770029003e00010000001f000000000000000400000000005000",
+          "slotIdRaw": 3,
+          "stateRaw": 0,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 3
+        },
+        {
+          "address": "0xa45638c0",
+          "memberIdRaw": 5,
+          "rawHex": "50e7d80004000000040000005e5f68926100720072006f0077002900730028003100360029006300280039003600620001006400d03856a4d03856a4650028007300680061006400010000001f000000000000000500000000003200",
+          "slotIdRaw": 4,
+          "stateRaw": 0,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 4
+        },
+        {
+          "address": "0xa4562e70",
+          "memberIdRaw": 6,
+          "rawHex": "50e7d80005000000050000005e5f68926100720072006f0077002900730028003100360029006300280039003600620001006400802e56a4802e56a4650028007300680061006400010000001f000000000000000600000000003200",
+          "slotIdRaw": 5,
+          "stateRaw": 0,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 5
+        },
+        {
+          "address": "0xa4563760",
+          "memberIdRaw": 7,
+          "rawHex": "50e7d80006000000060000005e5f6892610029006300280065006500380035003200660029007000280030002900650001007300703756a4703756a4770029003e002b0020003300010000001f000000000000000700000000005000",
+          "slotIdRaw": 6,
+          "stateRaw": 0,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 6
+        },
+        {
+          "address": "0xa4563a30",
+          "memberIdRaw": 18,
+          "rawHex": "50e7d80007000000070000005e5f6892610029007300280031003600290063002800650035006500310064006600290001003c00403a56a4403a56a4610064006f00770029003e00010000001f000000020000001200000000005000",
+          "slotIdRaw": 7,
+          "stateRaw": 2,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 7
+        },
+        {
+          "address": "0xa45639b0",
+          "memberIdRaw": 8,
+          "rawHex": "50e7d80008000000080000005e5f68926100720072006f0077002900730028003100360029006300280039003600620001006400c03956a4c03956a4650028007300680061006400010000001f000000000000000800000000003200",
+          "slotIdRaw": 8,
+          "stateRaw": 0,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 8
+        },
+        {
+          "address": "0xa45633a0",
+          "memberIdRaw": 9,
+          "rawHex": "50e7d8000900000001000000f4b9b786620029007300280031003600290063002800650035006500310064006600290001003c00b03356a4b03356a4610064006f00770029003e00010000001f000000000000000900000000005000",
+          "slotIdRaw": 9,
+          "stateRaw": 0,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 1
+        },
+        {
+          "address": "0xa4563c10",
+          "memberIdRaw": 19,
+          "rawHex": "50e7d8000a00000002000000f4b9b786620029007300280031003600290063002800390036006200620064003900290001003c00203c56a4203c56a4610064006f00770029003e00010000001f000000020000001300000000005000",
+          "slotIdRaw": 10,
+          "stateRaw": 2,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 2
+        },
+        {
+          "address": "0xa45637d0",
+          "memberIdRaw": 10,
+          "rawHex": "50e7d8000b00000003000000f4b9b7866200720072006f0077002900730028003100360029006300280065003500650001006400e03756a4e03756a4650028007300680061006400010000001f000000000000000a00000000002000",
+          "slotIdRaw": 11,
+          "stateRaw": 0,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 3
+        },
+        {
+          "address": "0xa4563aa0",
+          "memberIdRaw": 11,
+          "rawHex": "50e7d8000c00000004000000f4b9b786620029007300280038002900630028006500650038003500320066002900700001003000b03a56a4b03a56a46800610064006f0077002900010000001f000000000000000b00000000000000",
+          "slotIdRaw": 12,
+          "stateRaw": 0,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 4
+        },
+        {
+          "address": "0xa4562f60",
+          "memberIdRaw": 12,
+          "rawHex": "50e7d8000d00000005000000f4b9b7866200720072006f0077002900730028003100360029006300280039003600620001006400702f56a4702f56a4650028007300680061006400010000001f000000000000000c00000000003200",
+          "slotIdRaw": 13,
+          "stateRaw": 0,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 5
+        },
+        {
+          "address": "0xa4563b90",
+          "memberIdRaw": 14,
+          "rawHex": "50e7d8000e00000006000000f4b9b7866200720072006f0077002900730028003100360029006300280065003500650001006400a03b56a4a03b56a4650028007300680061006400010000001f000000000000000e00000000002000",
+          "slotIdRaw": 14,
+          "stateRaw": 0,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 6
+        },
+        {
+          "address": "0xa45630d0",
+          "memberIdRaw": 15,
+          "rawHex": "50e7d8000f00000007000000f4b9b786620029006300280065006500380035003200660029007000280030002900650001007300e03056a4e03056a4770029003e002b0020003300010000001f000000000000000f00000000005000",
+          "slotIdRaw": 15,
+          "stateRaw": 0,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 7
+        },
+        {
+          "address": "0xa4562fe0",
+          "memberIdRaw": 17,
+          "rawHex": "50e7d8001000000008000000f4b9b786620029006300280066003800630066003900310029007000280030002900650001007300f02f56a4f02f56a4770029003e002b0020003100010000001f000000000000001100000000005000",
+          "slotIdRaw": 16,
+          "stateRaw": 0,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 8
+        }
+      ]
+    }
+  },
+  {
+    "id": "871cf553-558f-4959-bfc7-2e4d227a470d",
+    "metadata": {
+      "created_at": 1788647655.2779858,
+      "participants": [
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player18",
+          "native_member_id": 2,
+          "participant_key": "steam:76561190000001001",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001001"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player05",
+          "native_member_id": 5,
+          "participant_key": "steam:76561190000001019",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001019"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player01",
+          "native_member_id": 8,
+          "participant_key": "steam:76561190000001012",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001012"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player17",
+          "native_member_id": 10,
+          "participant_key": "steam:76561190000001022",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001022"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player19",
+          "native_member_id": 11,
+          "participant_key": "steam:76561190000001021",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001021"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player10",
+          "native_member_id": 12,
+          "participant_key": "steam:76561190000001010",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001010"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player16",
+          "native_member_id": 13,
+          "participant_key": "steam:76561190000001013",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001013"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player22",
+          "native_member_id": 14,
+          "participant_key": "steam:76561190000001014",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001014"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player03",
+          "native_member_id": 15,
+          "participant_key": "steam:76561190000001007",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001007"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player15",
+          "native_member_id": 18,
+          "participant_key": "steam:76561190000001008",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001008"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player09",
+          "native_member_id": 19,
+          "participant_key": "steam:76561190000001017",
+          "role": "participant",
+          "starting_team": "b",
+          "steam_id": "76561190000001017"
+        },
+        {
+          "controller_kind": "remote_human",
+          "display_name": "Player24",
+          "native_member_id": 20,
+          "participant_key": "steam:76561190000001023",
+          "role": "participant",
+          "starting_team": "a",
+          "steam_id": "76561190000001023"
+        }
+      ],
+      "map": "multi/6v6_kalinina:battle_zones",
+      "start_observation": "lobby_then_loaded"
+    },
+    "finish": {
+      "engine_outcome": {
+        "raw_title": "B Team wins!",
+        "winning_team": "b"
+      },
+      "paired_counter_meanings": null,
+      "rows": [
+        {
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)> 1020  <c(dgred)>1127 ",
+              "text": "1020  1127",
+              "values_in_display_order": [
+                1020,
+                1127
+              ]
+            },
+            "player": {
+              "raw": "Team B",
+              "text": "Team B",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>51325",
+              "text": "51325",
+              "values_in_display_order": [
+                51325
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   93  <c(dgred)>95   ",
+              "text": "93  95",
+              "values_in_display_order": [
+                93,
+                95
+              ]
+            },
+            "victory_points": {
+              "raw": "<x.>160",
+              "text": "160",
+              "values_in_display_order": [
+                160
+              ]
+            }
+          },
+          "kind": "team",
+          "row_id": "tb",
+          "steam_id": null
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  243  <c(dgred)>298  ",
+              "text": "243  298",
+              "values_in_display_order": [
+                243,
+                298
+              ]
+            },
+            "player": {
+              "raw": "Player09",
+              "text": "Player09",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>12592",
+              "text": "12592",
+              "values_in_display_order": [
+                12592
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   24  <c(dgred)>23   ",
+              "text": "24  23",
+              "values_in_display_order": [
+                24,
+                23
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 19,
+          "participant_key": "steam:76561190000001017",
+          "row_id": "p19",
+          "steam_id": "76561190000001017"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  197  <c(dgred)>82   ",
+              "text": "197  82",
+              "values_in_display_order": [
+                197,
+                82
+              ]
+            },
+            "player": {
+              "raw": "Player10",
+              "text": "Player10",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>11786",
+              "text": "11786",
+              "values_in_display_order": [
+                11786
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   13  <c(dgred)>9    ",
+              "text": "13  9",
+              "values_in_display_order": [
+                13,
+                9
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 12,
+          "participant_key": "steam:76561190000001010",
+          "row_id": "p12",
+          "steam_id": "76561190000001010"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  193  <c(dgred)>177  ",
+              "text": "193  177",
+              "values_in_display_order": [
+                193,
+                177
+              ]
+            },
+            "player": {
+              "raw": "Player03",
+              "text": "Player03",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>10218",
+              "text": "10218",
+              "values_in_display_order": [
+                10218
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   27  <c(dgred)>16   ",
+              "text": "27  16",
+              "values_in_display_order": [
+                27,
+                16
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 15,
+          "participant_key": "steam:76561190000001007",
+          "row_id": "p15",
+          "steam_id": "76561190000001007"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  123  <c(dgred)>82   ",
+              "text": "123  82",
+              "values_in_display_order": [
+                123,
+                82
+              ]
+            },
+            "player": {
+              "raw": "Player19",
+              "text": "Player19",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>8574",
+              "text": "8574",
+              "values_in_display_order": [
+                8574
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   13  <c(dgred)>13   ",
+              "text": "13  13",
+              "values_in_display_order": [
+                13,
+                13
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 11,
+          "participant_key": "steam:76561190000001021",
+          "row_id": "p11",
+          "steam_id": "76561190000001021"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  144  <c(dgred)>277  ",
+              "text": "144  277",
+              "values_in_display_order": [
+                144,
+                277
+              ]
+            },
+            "player": {
+              "raw": "Player22",
+              "text": "Player22",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>4190",
+              "text": "4190",
+              "values_in_display_order": [
+                4190
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   10  <c(dgred)>29   ",
+              "text": "10  29",
+              "values_in_display_order": [
+                10,
+                29
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 14,
+          "participant_key": "steam:76561190000001014",
+          "row_id": "p14",
+          "steam_id": "76561190000001014"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  120  <c(dgred)>211  ",
+              "text": "120  211",
+              "values_in_display_order": [
+                120,
+                211
+              ]
+            },
+            "player": {
+              "raw": "Player16",
+              "text": "Player16",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>3965",
+              "text": "3965",
+              "values_in_display_order": [
+                3965
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>    6  <c(dgred)>5    ",
+              "text": "6  5",
+              "values_in_display_order": [
+                6,
+                5
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 13,
+          "participant_key": "steam:76561190000001013",
+          "row_id": "p13",
+          "steam_id": "76561190000001013"
+        },
+        {
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)> 1068  <c(dgred)>1063 ",
+              "text": "1068  1063",
+              "values_in_display_order": [
+                1068,
+                1063
+              ]
+            },
+            "player": {
+              "raw": "Team A",
+              "text": "Team A",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>46334",
+              "text": "46334",
+              "values_in_display_order": [
+                46334
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   91  <c(dgred)>96   ",
+              "text": "91  96",
+              "values_in_display_order": [
+                91,
+                96
+              ]
+            },
+            "victory_points": {
+              "raw": "<x.>67",
+              "text": "67",
+              "values_in_display_order": [
+                67
+              ]
+            }
+          },
+          "kind": "team",
+          "row_id": "ta",
+          "steam_id": null
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  129  <c(dgred)>161  ",
+              "text": "129  161",
+              "values_in_display_order": [
+                129,
+                161
+              ]
+            },
+            "player": {
+              "raw": "Player05",
+              "text": "Player05",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>12160",
+              "text": "12160",
+              "values_in_display_order": [
+                12160
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   27  <c(dgred)>18   ",
+              "text": "27  18",
+              "values_in_display_order": [
+                27,
+                18
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 5,
+          "participant_key": "steam:76561190000001019",
+          "row_id": "p5",
+          "steam_id": "76561190000001019"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  284  <c(dgred)>304  ",
+              "text": "284  304",
+              "values_in_display_order": [
+                284,
+                304
+              ]
+            },
+            "player": {
+              "raw": "Player18",
+              "text": "Player18",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>11018",
+              "text": "11018",
+              "values_in_display_order": [
+                11018
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   25  <c(dgred)>15   ",
+              "text": "25  15",
+              "values_in_display_order": [
+                25,
+                15
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 2,
+          "participant_key": "steam:76561190000001001",
+          "row_id": "p2",
+          "steam_id": "76561190000001001"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  281  <c(dgred)>206  ",
+              "text": "281  206",
+              "values_in_display_order": [
+                281,
+                206
+              ]
+            },
+            "player": {
+              "raw": "<c(fece99)>Player17",
+              "text": "Player17",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>8433",
+              "text": "8433",
+              "values_in_display_order": [
+                8433
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   21  <c(dgred)>23   ",
+              "text": "21  23",
+              "values_in_display_order": [
+                21,
+                23
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 10,
+          "participant_key": "steam:76561190000001022",
+          "row_id": "p10",
+          "steam_id": "76561190000001022"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  176  <c(dgred)>194  ",
+              "text": "176  194",
+              "values_in_display_order": [
+                176,
+                194
+              ]
+            },
+            "player": {
+              "raw": "Player01",
+              "text": "Player01",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>8239",
+              "text": "8239",
+              "values_in_display_order": [
+                8239
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>   11  <c(dgred)>21   ",
+              "text": "11  21",
+              "values_in_display_order": [
+                11,
+                21
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 8,
+          "participant_key": "steam:76561190000001012",
+          "row_id": "p8",
+          "steam_id": "76561190000001012"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>  136  <c(dgred)>82   ",
+              "text": "136  82",
+              "values_in_display_order": [
+                136,
+                82
+              ]
+            },
+            "player": {
+              "raw": "Player24",
+              "text": "Player24",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>3278",
+              "text": "3278",
+              "values_in_display_order": [
+                3278
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>    3  <c(dgred)>6    ",
+              "text": "3  6",
+              "values_in_display_order": [
+                3,
+                6
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 20,
+          "participant_key": "steam:76561190000001023",
+          "row_id": "p20",
+          "steam_id": "76561190000001023"
+        },
+        {
+          "controller_kind": "remote_human",
+          "fields": {
+            "infantry": {
+              "raw": "<x.><c(002000ff)>   62  <c(dgred)>116  ",
+              "text": "62  116",
+              "values_in_display_order": [
+                62,
+                116
+              ]
+            },
+            "player": {
+              "raw": "Player15",
+              "text": "Player15",
+              "values_in_display_order": null
+            },
+            "resources": null,
+            "score": {
+              "raw": "<x.>3205",
+              "text": "3205",
+              "values_in_display_order": [
+                3205
+              ]
+            },
+            "vehicles": {
+              "raw": "<x.><c(002000ff)>    4  <c(dgred)>13   ",
+              "text": "4  13",
+              "values_in_display_order": [
+                4,
+                13
+              ]
+            },
+            "victory_points": null
+          },
+          "identity_source": "native_terminal_row_p_memberId_and_approved_session_roster",
+          "kind": "player",
+          "native_member_id": 18,
+          "participant_key": "steam:76561190000001008",
+          "row_id": "p18",
+          "steam_id": "76561190000001008"
+        }
+      ],
+      "schema_version": 2,
+      "source": "native_in_game_result_ui",
+      "unavailable_fields": [
+        "resources"
+      ]
+    },
+    "finish_roster": {
+      "slots": [
+        {
+          "address": "0xaeb90090",
+          "memberIdRaw": 2,
+          "rawHex": "50e7d80001000000010000005e5f6892610000000000000000000000000000000000000000000000000000000000000001000000a000b9aea000b9ae000000000000000000000000010000001f000000000000000200000000000000",
+          "slotIdRaw": 1,
+          "stateRaw": 0,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 1
+        },
+        {
+          "address": "0xaeb90010",
+          "memberIdRaw": 5,
+          "rawHex": "50e7d80002000000020000005e5f68926100000000000000000000000000000000000000000000000000000000000000010000002000b9ae2000b9ae000000000000000000000000010000001f000000000000000500000000000000",
+          "slotIdRaw": 2,
+          "stateRaw": 0,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 2
+        },
+        {
+          "address": "0xaeb8fa70",
+          "memberIdRaw": 18,
+          "rawHex": "50e7d80003000000030000005e5f689261000000000000000000000000000000000000000000000000000000000000000100000080fab8ae80fab8ae000000000000000000000000010000001f000000000000001200000000000000",
+          "slotIdRaw": 3,
+          "stateRaw": 0,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 3
+        },
+        {
+          "address": "0xaeb8feb0",
+          "memberIdRaw": 8,
+          "rawHex": "50e7d80004000000040000005e5f6892610000000000000000000000000000000000000000000000000000000000000001000000c0feb8aec0feb8ae000000000000000000000000010000001f000000000000000800000000000000",
+          "slotIdRaw": 4,
+          "stateRaw": 0,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 4
+        },
+        {
+          "address": "0xaeb90100",
+          "memberIdRaw": 10,
+          "rawHex": "50e7d80005000000050000005e5f68926100000000000000000000000000000000000000000000000000000000000000010000001001b9ae1001b9ae000000000000000000000000010000001f000000000000000a00000000000000",
+          "slotIdRaw": 5,
+          "stateRaw": 0,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 5
+        },
+        {
+          "address": "0xaeb903d0",
+          "memberIdRaw": 20,
+          "rawHex": "50e7d80006000000060000005e5f6892610000000000000000000000000000000000000000000000000000000000000001000000e003b9aee003b9ae000000000000000000000000010000001f000000000000001400000000000000",
+          "slotIdRaw": 6,
+          "stateRaw": 0,
+          "teamRaw": "a",
+          "teamSlotIndexRaw": 6
+        },
+        {
+          "address": "0xaeb90180",
+          "memberIdRaw": 12,
+          "rawHex": "50e7d8000700000001000000f4b9b7866200000000000000000000000000000000000000000000000000000000000000010000009001b9ae9001b9ae000000000000000000000000010000001f000000000000000c00000000000000",
+          "slotIdRaw": 7,
+          "stateRaw": 0,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 1
+        },
+        {
+          "address": "0xaeb8ff20",
+          "memberIdRaw": 13,
+          "rawHex": "50e7d8000800000002000000f4b9b78662000000000000000000000000000000000000000000000000000000000000000100000030ffb8ae30ffb8ae000000000000000000000000010000001f000000000000000d00000000000000",
+          "slotIdRaw": 8,
+          "stateRaw": 0,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 2
+        },
+        {
+          "address": "0xaeb8faf0",
+          "memberIdRaw": 14,
+          "rawHex": "50e7d8000900000003000000f4b9b78662000000000000000000000000000000000000000000000000000000000000000100000000fbb8ae00fbb8ae000000000000000000000000010000001f000000000000000e00000000000000",
+          "slotIdRaw": 9,
+          "stateRaw": 0,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 3
+        },
+        {
+          "address": "0xaeb906a0",
+          "memberIdRaw": 15,
+          "rawHex": "50e7d8000a00000004000000f4b9b7866200720072006f0077002900730028003100360029006300280039003600620001006400b006b9aeb006b9ae650028007300680061006400010000001f000000000000000f00000000003200",
+          "slotIdRaw": 10,
+          "stateRaw": 0,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 4
+        },
+        {
+          "address": "0xaeb8fcd0",
+          "memberIdRaw": 11,
+          "rawHex": "50e7d8000b00000005000000f4b9b786620000000000000000000000000000000000000000000000000000000000000001000000e0fcb8aee0fcb8ae000000000000000000000000010000001f000000000000000b00000000000000",
+          "slotIdRaw": 11,
+          "stateRaw": 0,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 5
+        },
+        {
+          "address": "0xaeb90720",
+          "memberIdRaw": 19,
+          "rawHex": "50e7d8000c00000006000000f4b9b7866200000000000000000000000000000000000000000000000000000000000000010000003007b9ae3007b9ae000000000000000000000000010000001f000000000000001300000000000000",
+          "slotIdRaw": 12,
+          "stateRaw": 0,
+          "teamRaw": "b",
+          "teamSlotIndexRaw": 6
+        }
+      ]
+    }
+  }
+]

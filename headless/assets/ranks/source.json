@@ -1,0 +1,93 @@
+{
+  "archive": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Men of War Assault Squad 2\\resource\\interface.pak",
+  "icons": {
+    "0": {
+      "source": "interface/pages/multi/ur_rank_00.tga",
+      "sha256_tga": "ccedfd860b11e4e868d78feb822b540c204b6a7e144ef57801d5c29857e96c1d",
+      "size": [
+        1,
+        1
+      ]
+    },
+    "1": {
+      "source": "interface/pages/multi/ur_rank_01.tga",
+      "sha256_tga": "bcef26348ea018ace1e55470752fe4b61784d14adc321daa9817f841ff2e5f4e",
+      "size": [
+        16,
+        20
+      ]
+    },
+    "2": {
+      "source": "interface/pages/multi/ur_rank_02.tga",
+      "sha256_tga": "1b494add07ae6f37cef16dc2a419dc6a1a5a300fb36af4253567cb2396613015",
+      "size": [
+        16,
+        20
+      ]
+    },
+    "3": {
+      "source": "interface/pages/multi/ur_rank_03.tga",
+      "sha256_tga": "bc9d3adb440d2173e2da8f99fea8bc528463b1322111739021fbc76ac84f866b",
+      "size": [
+        16,
+        20
+      ]
+    },
+    "4": {
+      "source": "interface/pages/multi/ur_rank_04.tga",
+      "sha256_tga": "0defb0333e73073ce49eb1a732b4ff671c51c751825f05240b9c8a87c5fa1429",
+      "size": [
+        16,
+        20
+      ]
+    },
+    "5": {
+      "source": "interface/pages/multi/ur_rank_05.tga",
+      "sha256_tga": "253a4932fe57315e2083385fef95dc5751b4ee8b47e363c1dfc867eb5f8fbabe",
+      "size": [
+        16,
+        20
+      ]
+    },
+    "6": {
+      "source": "interface/pages/multi/ur_rank_06.tga",
+      "sha256_tga": "8924927e0904c4619c25ea5a3cf397f85ca6c72ae2dfaf355d3312e692684fb8",
+      "size": [
+        16,
+        20
+      ]
+    },
+    "7": {
+      "source": "interface/pages/multi/ur_rank_07.tga",
+      "sha256_tga": "e85fc73ddcb84babffa426816fb3dae7b4a775f6844f29a17ac8cd23c205e16f",
+      "size": [
+        16,
+        20
+      ]
+    },
+    "8": {
+      "source": "interface/pages/multi/ur_rank_08.tga",
+      "sha256_tga": "4233fa305f228091a2272330bce2e855377e5b4437df233db03cfc5994470d7a",
+      "size": [
+        16,
+        20
+      ]
+    },
+    "9": {
+      "source": "interface/pages/multi/ur_rank_09.tga",
+      "sha256_tga": "1b78484b568af07c04e71fbe39a85a24fdd39a97fa2d613f32348b07f5676e4d",
+      "size": [
+        16,
+        20
+      ]
+    },
+    "10": {
+      "source": "interface/pages/multi/ur_rank_10.tga",
+      "sha256_tga": "5405af4ece2464f488cbf3d72716d06b0c471afdc2112b5de8e2d65fd266f0dd",
+      "size": [
+        16,
+        20
+      ]
+    }
+  }
+}

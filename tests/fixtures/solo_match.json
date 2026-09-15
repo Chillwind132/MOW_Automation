@@ -1,0 +1,86 @@
+{
+  "match_id": "deaa1bd6-d793-430e-86f6-d1ce3a98028b",
+  "trigger": "host_requested_quit",
+  "engine_outcome": null,
+  "starting_roster": null,
+  "pre_quit_roster": {
+    "source": "engine_session_card",
+    "layoutStatus": "under_investigation",
+    "service": "0x5202bee0",
+    "card": "0x4fe728f0",
+    "cardVtable": 14841052,
+    "map": "multi/3v3_big_desert_town:battle_zones",
+    "hostMemberIdRaw": 2,
+    "localMemberIdRaw": 2,
+    "rows": [
+      {
+        "address": "0x8a6ffc70",
+        "typeRaw": 1,
+        "memberIdRaw": 2,
+        "readyRaw": 0,
+        "identityWordsRaw": [629669886, 17825791],
+        "strings": [
+          {
+            "offset": 12,
+            "value": "Player17"
+          },
+          {
+            "offset": 80,
+            "value": "a"
+          }
+        ],
+        "rawHex": "4c06de0001000000020000005369636172696f0000000000000a0000070000000f0000005e5f68926100000000000000000a0000a00500000000000000000000000a0000a00500000100000098fc6f8a98fc6f8a5f020000c605000041030000010000001f000000000000000003000000000000010000003a0400005f020000c60500003c0300003a04000001020000dcfc6f8adcfc6f8a000000000100000060040000000000001f0000000000000000040000b3020000a005000020030000000000000100000060040000b30200000105000020fd6f8a20fd6f8ab302000098050000f8020000000000001f000000000000000002000092050000f502000066040000b602000092050000f5020000000000000100000064fd6f8a64fd6f8a92050000f502000066040000000000001f000000c0aba841010010013806de00000000000000000000000000000000000104000070bcffa388bcffa388bcffa300000000"
+      }
+    ],
+    "snapshot": {
+      "pid": 5712,
+      "base": "0x400000",
+      "ticks": 36805,
+      "loopThread": 25632,
+      "core": "0x4d216b00",
+      "coreVtable": 14833248,
+      "session": "0x4d1fb8e0",
+      "sessionVtable": 14284612,
+      "pipeline": "0x51967b90",
+      "stage": "0x53edb830",
+      "stageVtable": 14876208,
+      "page": "0x524ac900",
+      "pageVtable": 14816972,
+      "pageName": "game_menu",
+      "service": "0x0",
+      "serviceVtable": 0,
+      "card": "0x0",
+      "cardVtable": 0,
+      "map": null
+    }
+  },
+  "observed_at": 1788631836.873094,
+  "post_quit_state": {
+    "pid": 5712,
+    "base": "0x400000",
+    "ticks": 63972,
+    "loopThread": 25632,
+    "core": "0x4d216b00",
+    "coreVtable": 14833248,
+    "session": "0x4d1fb8e0",
+    "sessionVtable": 14284612,
+    "pipeline": "0x51967b8c",
+    "stage": "0x5213e9e0",
+    "stageVtable": 14876392,
+    "page": "0x9a37a460",
+    "pageVtable": 14856908,
+    "pageName": "mp_sessionclient",
+    "service": "0x5202bee0",
+    "serviceVtable": 14553040,
+    "card": "0x4fe728f0",
+    "cardVtable": 14841052,
+    "map": "multi/3v3_big_desert_town:battle_zones"
+  },
+  "ui_objects": [
+    {
+      "kind": "mp_statistics",
+      "address": "0xa3eecef0",
+      "vtable": "0xe1f69c"
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "match": {
+    "match_id": "55709720-7be9-4491-8f71-49b6bf5ac748",
+    "native_game_start_time": "0x6aa089ca",
+    "participants": [
+      {
+        "ai_difficulty": null,
+        "ai_difficulty_raw": null,
+        "army": "usa",
+        "controller_kind": "local_host",
+        "display_name": "Player21",
+        "games_played": 1128,
+        "games_played_badge_tier": 8,
+        "games_played_source": "native_session_member_0x148",
+        "native_member_id": 2,
+        "observed_at": 1788905967.4770374,
+        "participant_key": "steam:76561190000001022",
+        "ready": false,
+        "role": "participant",
+        "slot_generation": 1,
+        "slot_id": 2,
+        "slot_index_base": 1,
+        "source": "guarded_native_member_and_slot_vectors",
+        "starting_team": "b",
+        "steam_id": "76561190000001022",
+        "team_slot_index": 1
+      },
+      {
+        "ai_difficulty": "heroic",
+        "ai_difficulty_raw": "heroic",
+        "army": "ger_ss",
+        "controller_kind": "ai",
+        "display_name": "BOT",
+        "games_played": null,
+        "games_played_badge_tier": null,
+        "games_played_source": null,
+        "native_member_id": 27,
+        "observed_at": 1788905967.477046,
+        "participant_key": "ai:55709720-7be9-4491-8f71-49b6bf5ac748:1:1",
+        "ready": false,
+        "role": "participant",
+        "slot_generation": 1,
+        "slot_id": 1,
+        "slot_index_base": 1,
+        "source": "guarded_native_member_and_slot_vectors",
+        "starting_team": "a",
+        "steam_id": null,
+        "team_slot_index": 1
+      }
+    ]
+  },
+  "live": {
+    "source": "native_live_observation",
+    "observedAt": 1788906684303,
+    "state": {
+      "pid": 19612,
+      "base": "0x400000",
+      "ticks": 283120,
+      "loopThread": 9428,
+      "core": "0x4d26c9e0",
+      "coreVtable": 14833248,
+      "session": "0x4d282220",
+      "sessionVtable": 14284612,
+      "pipeline": "0x96374c70",
+      "stage": "0x71786240",
+      "stageVtable": 14876208,
+      "page": "0xcaa83840",
+      "pageVtable": 14855768,
+      "pageName": "multiplayer",
+      "service": "0x0",
+      "serviceVtable": 0,
+      "card": "0x0",
+      "cardVtable": 0,
+      "map": null
+    },
+    "manager": "0xd47c35f0",
+    "managerVtable": 14882800,
+    "managerStateRaw": 1,
+    "hud": [
+      {
+        "address": "0x712ffd90",
+        "name": "712ffd90",
+        "rawText": "<c(FFFFFF)>12:13",
+        "team": null,
+        "scope": "observed_HUD_cell_unmapped",
+        "source": "validated_HUD_ownership_chain"
+      },
+      {
+        "address": "0x712ff3b0",
+        "name": "712ff3b0",
+        "rawText": "<b+c(80a080ff)>55 / 160",
+        "team": null,
+        "scope": "observed_HUD_cell_unmapped",
+        "source": "validated_HUD_ownership_chain"
+      },
+      {
+        "address": "0x71300300",
+        "name": "71300300",
+        "rawText": "<b+c(a08080ff)>0 / 160",
+        "team": null,
+        "scope": "observed_HUD_cell_unmapped",
+        "source": "validated_HUD_ownership_chain"
+      },
+      {
+        "address": "0xe5481bd0",
+        "name": "e5481bd0",
+        "rawText": "<f(arial_narrow)s(16)c(96bbd9)><e(shadow)>49 / 120 CP",
+        "team": null,
+        "scope": "observed_HUD_cell_unmapped",
+        "source": "validated_HUD_ownership_chain"
+      },
+      {
+        "address": "0xe5482260",
+        "name": "e5482260",
+        "rawText": "<f(arial_narrow)s(16)c(ee852f)><e(shadow)>1091 / 1840 MP",
+        "team": null,
+        "scope": "observed_HUD_cell_unmapped",
+        "source": "validated_HUD_ownership_chain"
+      }
+    ],
+    "outcome": null,
+    "completionEvent": null,
+    "playerStatistics": {
+      "status": "observed",
+      "source": "native_battle_counters",
+      "nativeGameStartTime": "0x6aa089ca",
+      "manager": "0xd47c35f0",
+      "statistics": "0xdec25080",
+      "players": [
+        {
+          "nativeMemberId": 2,
+          "gamePlayerSlot": 2,
+          "displayName": "Player21",
+          "team": "b",
+          "steamWords": [629669886, 17825791],
+          "ai": false,
+          "infantry": [
+            34,
+            9
+          ],
+          "vehicles": [
+            0,
+            0
+          ],
+          "score": 690,
+          "resources": [
+            960,
+            0
+          ],
+          "resourceEntries": [
+            {
+              "category": "default",
+              "amount": 126
+            },
+            {
+              "category": "default",
+              "amount": 356
+            },
+            {
+              "category": "default",
+              "amount": 126
+            },
+            {
+              "category": "default",
+              "amount": 104
+            },
+            {
+              "category": "default",
+              "amount": 15
+            },
+            {
+              "category": "default",
+              "amount": 70
+            },
+            {
+              "category": "default",
+              "amount": 163
+            }
+          ]
+        },
+        {
+          "nativeMemberId": 27,
+          "gamePlayerSlot": 3,
+          "displayName": "AI Player: Heroic",
+          "team": "a",
+          "steamWords": [
+            0,
+            0
+          ],
+          "ai": true,
+          "infantry": [
+            9,
+            34
+          ],
+          "vehicles": [
+            0,
+            0
+          ],
+          "score": 224,
+          "resources": [
+            684,
+            0
+          ],
+          "resourceEntries": [
+            {
+              "category": "default",
+              "amount": 184
+            },
+            {
+              "category": "default",
+              "amount": 205
+            },
+            {
+              "category": "default",
+              "amount": 295
+            }
+          ]
+        }
+      ],
+      "scores": [
+        {
+          "key": "2",
+          "values": [
+            0,
+            0,
+            690,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "3",
+          "values": [
+            0,
+            0,
+            224,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "a",
+          "values": [
+            0,
+            0.0949999988079071,
+            224,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "key": "b",
+          "values": [
+            0,
+            55.65520095825195,
+            690,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "pairedCounterMeanings": [
+        "enemy_kills",
+        "losses"
+      ],
+      "resourcePairMeanings": [
+        "non_special",
+        "special"
+      ]
+    },
+    "hudStatus": "observed"
+  }
+}

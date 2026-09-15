@@ -1,0 +1,498 @@
+{
+  "match_id": "7fbcf975-ef1f-4590-8086-9fa24dfdddd6",
+  "process_identity": {
+    "pid": 20868,
+    "creation_filetime": "134331088249140551",
+    "executable_path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Men of War Assault Squad 2\\mowas_2.exe",
+    "sha256": "3bc956732844aab0f4028cafecc74a9c0fc73abd6afc618bad5c4e9de537e64f",
+    "version": "3.262.1"
+  },
+  "host_session_id": "69e084c2-2938-4992-95a0-ea0ea13fddc3",
+  "starting_roster": {
+    "source": "engine_session_card",
+    "layoutStatus": "under_investigation",
+    "slots": [
+      {
+        "address": "0x3b3c0bb0",
+        "slotIdRaw": 1,
+        "teamRaw": "a",
+        "teamSlotIndexRaw": 1,
+        "stateRaw": 0,
+        "memberIdRaw": 2,
+        "rawHex": "50e7d80001000000010000005e5f6892610030003200300037003000360031003900330035000000006176656d6f64650134342dc00b3c3bc00b3c3b0f00000058000000007dbb34010000001f000000000000000200000000000000"
+      },
+      {
+        "address": "0x3b3c1060",
+        "slotIdRaw": 2,
+        "teamRaw": "a",
+        "teamSlotIndexRaw": 2,
+        "stateRaw": 0,
+        "memberIdRaw": 5,
+        "rawHex": "50e7d80002000000020000005e5f689261006100730020004d0061006e00750061006c00690073006c652f30325f6765012d736b70103c3b70103c3b335f6765722d6d61726b6574010000001f000000000000000500000000697665"
+      },
+      {
+        "address": "0x3b3c0d90",
+        "slotIdRaw": 3,
+        "teamRaw": "a",
+        "teamSlotIndexRaw": 3,
+        "stateRaw": 0,
+        "memberIdRaw": 0,
+        "rawHex": "50e7d80003000000030000005e5f6892610020006f0066002000430061006d0065006c006f0074006c652f30355f6a61012d736ba00d3c3ba00d3c3b32625f6a61702d6775696e65010000001f00000000000000000000000076650a"
+      },
+      {
+        "address": "0x3b3c0f70",
+        "slotIdRaw": 4,
+        "teamRaw": "b",
+        "teamSlotIndexRaw": 1,
+        "stateRaw": 0,
+        "memberIdRaw": 3,
+        "rawHex": "50e7d8000400000001000000f4b9b7866200410033005f005e007800580078003a003a002e002e00330020003100360001002000800f3c3b800f3c3b3e0049006e002d0067006100010000001f000000000000000300000000000000"
+      },
+      {
+        "address": "0x3b3c0e00",
+        "slotIdRaw": 5,
+        "teamRaw": "b",
+        "teamSlotIndexRaw": 2,
+        "stateRaw": 0,
+        "memberIdRaw": 0,
+        "rawHex": "50e7d8000500000002000000f4b9b786620029007300280038002900790028002d00320029003e003c0063002800380001002000100e3c3b100e3c3b31003900340029003e004900010000001f000000000000000000000000006800"
+      },
+      {
+        "address": "0x3b3c11c0",
+        "slotIdRaw": 6,
+        "teamRaw": "b",
+        "teamSlotIndexRaw": 3,
+        "stateRaw": 0,
+        "memberIdRaw": 0,
+        "rawHex": "50e7d8000600000003000000f4b9b7866200b786620065005f006700720065006e0061006400650000006d006e0000000100315dd0113c3bd0113c3b00113c3be079e65010000000010000001f0000000000000000000000007ae650"
+      }
+    ],
+    "steamLobbyId": "100000000000000000",
+    "gameStartTimeRaw": "",
+    "settings": {
+      "victoryPoints": 75,
+      "victoryPointsMin": 75,
+      "victoryPointsMax": 200,
+      "totalManpower": 10000,
+      "preparationTime": 20,
+      "enableSpectators": 0,
+      "source": "effective_engine_session_card",
+      "manpowerScope": "unverified"
+    },
+    "service": "0x51e08060",
+    "card": "0x508ca350",
+    "cardVtable": 14841052,
+    "map": "multi/3v3_big_desert_town:battle_zones",
+    "hostMemberIdRaw": 2,
+    "localMemberIdRaw": 2,
+    "rows": [
+      {
+        "address": "0x3a827770",
+        "typeRaw": 1,
+        "displayName": "Player17",
+        "aiDifficultyRaw": null,
+        "armyRaw": "",
+        "memberIdRaw": 2,
+        "readyRaw": 1,
+        "identityWordsRaw": [629669886, 17825791],
+        "strings": [
+          {
+            "offset": 12,
+            "value": "Player17"
+          },
+          {
+            "offset": 80,
+            "value": "a"
+          },
+          {
+            "offset": 100,
+            "value": "\u001f"
+          },
+          {
+            "offset": 140,
+            "value": "\u0001"
+          },
+          {
+            "offset": 180,
+            "value": "\u001c"
+          }
+        ],
+        "rawHex": "4c06de0001000000020000005369636172696f0000000000000a0000070000000f0000005e5f68926100000000000000000a0000a00500000000000000000000000a0000a0050000010000009877823a9877823af1ffffff61030000ef010000010000001f000000000000000001000000000000010000000d0000000d00000045030000d30100001c00000001000000dc77823adc77823a00000000010000000d000000000000001f00000000000000000000001c0000005c010000b101000000000000010000000f0000000f000000010100002078823a2078823a1e0000005a010000af010000000000001f00000000000000000000004b0100009e0100001e0000001e0000005a010000ad01000000000000010000006478823a6478823a4b010000390000001e000000000000001f000000c0aba841010010013806de00000000000000000011040000000000000100000090a48851a8a48851a8a4885101000000"
+      },
+      {
+        "address": "0x3a827c00",
+        "typeRaw": 2,
+        "displayName": "BOT",
+        "aiDifficultyRaw": "normal",
+        "armyRaw": "random",
+        "memberIdRaw": 3,
+        "readyRaw": 1,
+        "identityWordsRaw": [
+          0,
+          0
+        ],
+        "strings": [
+          {
+            "offset": 12,
+            "value": "BOT"
+          },
+          {
+            "offset": 80,
+            "value": "b"
+          },
+          {
+            "offset": 100,
+            "value": "\u001f"
+          },
+          {
+            "offset": 140,
+            "value": "\u0001"
+          },
+          {
+            "offset": 180,
+            "value": "o"
+          },
+          {
+            "offset": 216,
+            "value": "random"
+          },
+          {
+            "offset": 284,
+            "value": "normal"
+          }
+        ],
+        "rawHex": "4c06de000200000003000000424f54000000000000000000000a0000030000000f000000f4b9b7866200000000000000000a0000a00500000000000000000000000a0000a005000001000000287c823a287c823af1ffffff61030000ef010000010000001f000000000000000001000000000000010000000d0000000d00000045030000d30100001c000000010000006c7c823a6c7c823a00000000010000000d000000000000001f000000f761598672616e646f6d00005c010000b101000000000000010000000f0000000f00000001010000b07c823ab07c823a1e0000005a010000af010000060000001f000000c9105d106e6f726d616c00009e0100001e0000001e0000005a010000ad0100000000000001000000f47c823af47c823a4b010000390000001e000000060000001f00000000000000000000003806de00000000000000000000000000000000000000000000000000000000000000000001000000"
+      },
+      {
+        "address": "0x3a827f10",
+        "typeRaw": 2,
+        "displayName": "BOT",
+        "aiDifficultyRaw": "normal",
+        "armyRaw": "random",
+        "memberIdRaw": 5,
+        "readyRaw": 1,
+        "identityWordsRaw": [
+          0,
+          0
+        ],
+        "strings": [
+          {
+            "offset": 12,
+            "value": "BOT"
+          },
+          {
+            "offset": 80,
+            "value": "a"
+          },
+          {
+            "offset": 100,
+            "value": "\u001f"
+          },
+          {
+            "offset": 140,
+            "value": "\u0001"
+          },
+          {
+            "offset": 180,
+            "value": "o"
+          },
+          {
+            "offset": 216,
+            "value": "random"
+          },
+          {
+            "offset": 284,
+            "value": "normal"
+          }
+        ],
+        "rawHex": "4c06de000200000005000000424f540072696f007274616c000a0000030000000f0000005e5f68926100000000000000000a0000a00500000000000000000000000a0000a005000001000000387f823a387f823af1ffffff61030000ef010000010000001f000000000000000001000000000000010000000d0000000d00000045030000d30100001c000000010000007c7f823a7c7f823a00000000010000000d000000000000001f000000f761598672616e646f6d00005c010000b101000000000000010000000f0000000f00000001010000c07f823ac07f823a1e0000005a010000af010000060000001f000000c9105d106e6f726d616c00009e0100001e0000001e0000005a010000ad01000000000000010000000480823a0480823a4b010000390000001e000000060000001f00000000000000000000003806de00000000000000000000000000000000000000000000000000000000000000000001000000"
+      }
+    ],
+    "snapshot": {
+      "pid": 20868,
+      "base": "0x400000",
+      "ticks": 930,
+      "loopThread": 3816,
+      "core": "0x4e18fc60",
+      "coreVtable": 14833248,
+      "session": "0x4e147dc0",
+      "sessionVtable": 14284612,
+      "pipeline": "0x4df7f744",
+      "stage": "0x520375d0",
+      "stageVtable": 14876392,
+      "page": "0x3e6e1230",
+      "pageVtable": 14856908,
+      "pageName": "mp_sessionclient",
+      "service": "0x51e08060",
+      "serviceVtable": 14553040,
+      "card": "0x508ca350",
+      "cardVtable": 14841052,
+      "map": "multi/3v3_big_desert_town:battle_zones"
+    }
+  },
+  "requested_settings": {
+    "victoryPoints": 75,
+    "totalManpower": 10000
+  },
+  "effective_settings": {
+    "victoryPoints": 75,
+    "victoryPointsMin": 75,
+    "victoryPointsMax": 200,
+    "totalManpower": 10000,
+    "preparationTime": 20,
+    "enableSpectators": 0,
+    "source": "effective_engine_session_card",
+    "manpowerScope": "unverified"
+  },
+  "created_at": 1788636158.7598526,
+  "mods": null,
+  "mods_status": "not_yet_captured",
+  "engine_outcome": null,
+  "participants": [
+    {
+      "participant_key": "steam:76561190000001022",
+      "native_member_id": 2,
+      "slot_id": 1,
+      "slot_generation": 1,
+      "slot_index_base": 1,
+      "team_slot_index": 1,
+      "display_name": "Player17",
+      "starting_team": "a",
+      "army": "",
+      "role": "participant",
+      "controller_kind": "local_host",
+      "steam_id": "76561190000001022",
+      "ready": true,
+      "ai_difficulty": null,
+      "ai_difficulty_raw": null,
+      "observed_at": 1788636158.7598622,
+      "source": "guarded_native_member_and_slot_vectors"
+    },
+    {
+      "participant_key": "ai:7fbcf975-ef1f-4590-8086-9fa24dfdddd6:4:1",
+      "native_member_id": 3,
+      "slot_id": 4,
+      "slot_generation": 1,
+      "slot_index_base": 1,
+      "team_slot_index": 1,
+      "display_name": "BOT",
+      "starting_team": "b",
+      "army": "random",
+      "role": "participant",
+      "controller_kind": "ai",
+      "steam_id": null,
+      "ready": true,
+      "ai_difficulty": "normal",
+      "ai_difficulty_raw": "normal",
+      "observed_at": 1788636158.7598674,
+      "source": "guarded_native_member_and_slot_vectors"
+    },
+    {
+      "participant_key": "ai:7fbcf975-ef1f-4590-8086-9fa24dfdddd6:2:1",
+      "native_member_id": 5,
+      "slot_id": 2,
+      "slot_generation": 1,
+      "slot_index_base": 1,
+      "team_slot_index": 2,
+      "display_name": "BOT",
+      "starting_team": "a",
+      "army": "random",
+      "role": "participant",
+      "controller_kind": "ai",
+      "steam_id": null,
+      "ready": true,
+      "ai_difficulty": "normal",
+      "ai_difficulty_raw": "normal",
+      "observed_at": 1788636158.75987,
+      "source": "guarded_native_member_and_slot_vectors"
+    }
+  ],
+  "native_game_start_time": "0x6a9c6c11",
+  "loaded_at": 1788636182.4969063,
+  "loaded_roster": {
+    "source": "engine_session_card",
+    "layoutStatus": "under_investigation",
+    "slots": [
+      {
+        "address": "0xbaf91ca0",
+        "slotIdRaw": 1,
+        "teamRaw": "a",
+        "teamSlotIndexRaw": 1,
+        "stateRaw": 0,
+        "memberIdRaw": 2,
+        "rawHex": "50e7d80001000000010000005e5f68926100ffffffffffff6dac200889090300ffffffffffffffff8dac0983deb880ec01ffffffb01cf9bab01cf9ba3f1f1f1fffffffffffffffff010000001f000000000000000200000000b4675a"
+      },
+      {
+        "address": "0xbaf92580",
+        "slotIdRaw": 2,
+        "teamRaw": "a",
+        "teamSlotIndexRaw": 2,
+        "stateRaw": 0,
+        "memberIdRaw": 5,
+        "rawHex": "50e7d80002000000020000005e5f689261004c006f006100640069006e00670020002f0073006300720069007000740001006d009025f9ba9025f9ba70006c006100790065007200010000001f000000000000000500000000002e00"
+      },
+      {
+        "address": "0xbaf92490",
+        "slotIdRaw": 3,
+        "teamRaw": "a",
+        "teamSlotIndexRaw": 3,
+        "stateRaw": 0,
+        "memberIdRaw": 0,
+        "rawHex": "50e7d80003000000030000005e5f689261004c006f006100640069006e00670020002f0073006300720069007000740001006d00a024f9baa024f9ba70006c006100790065007200010000001f000000000000000000000000002e00"
+      },
+      {
+        "address": "0xbaf92150",
+        "slotIdRaw": 4,
+        "teamRaw": "b",
+        "teamSlotIndexRaw": 1,
+        "stateRaw": 0,
+        "memberIdRaw": 3,
+        "rawHex": "50e7d8000400000001000000f4b9b7866200ffffffffffff200000007f7f5f55ffffffffffffffff6fc500080d0d0d0e01ffffff6021f9ba6021f9ba72727272ffffffffffffffff010000001f000000000000000300000000c52108"
+      },
+      {
+        "address": "0xbaf92850",
+        "slotIdRaw": 5,
+        "teamRaw": "b",
+        "teamSlotIndexRaw": 2,
+        "stateRaw": 0,
+        "memberIdRaw": 0,
+        "rawHex": "50e7d8000500000002000000f4b9b7866200ffffffffffffe64903293220e1c9ffffffffffffffff2752c2204bcaeaea01ffffff6028f9ba6028f9bab4babe1cffffffffffffffff010000001f000000000000000000000000520329"
+      },
+      {
+        "address": "0xbaf92600",
+        "slotIdRaw": 6,
+        "teamRaw": "b",
+        "teamSlotIndexRaw": 3,
+        "stateRaw": 0,
+        "memberIdRaw": 0,
+        "rawHex": "50e7d8000600000003000000f4b9b7866200ffffffffffffb0ac8431b580a8a2ffffffffffffffffafac4108726a8a0001ffffff1026f9ba1026f9ba15555537ffffffffffffffff010000001f000000000000000000000000832000"
+      }
+    ],
+    "steamLobbyId": "100000000000000000",
+    "gameStartTimeRaw": "0x6a9c6c11",
+    "settings": {
+      "victoryPoints": 75,
+      "victoryPointsMin": 75,
+      "victoryPointsMax": 200,
+      "totalManpower": 10000,
+      "preparationTime": 20,
+      "enableSpectators": 0,
+      "source": "effective_engine_session_card",
+      "manpowerScope": "unverified"
+    },
+    "service": "0x51e08060",
+    "card": "0x508ca350",
+    "cardVtable": 14841052,
+    "map": "multi/3v3_big_desert_town:battle_zones",
+    "hostMemberIdRaw": 2,
+    "localMemberIdRaw": 2,
+    "rows": [
+      {
+        "address": "0xaa74fa70",
+        "typeRaw": 1,
+        "displayName": "Player17",
+        "aiDifficultyRaw": null,
+        "armyRaw": "",
+        "memberIdRaw": 2,
+        "readyRaw": 0,
+        "identityWordsRaw": [629669886, 17825791],
+        "strings": [
+          {
+            "offset": 12,
+            "value": "Player17"
+          },
+          {
+            "offset": 80,
+            "value": "a"
+          }
+        ],
+        "rawHex": "4c06de0001000000020000005369636172696f000000000000000000070000000f0000005e5f689261000000000000000000000000000000000000000000000000000000000000000100000098fa74aa98fa74aa000000000000000000000000010000001f00000000000000000000000000000000000000000000000000000000000000000000000000000001000000dcfa74aadcfa74aa000000000000000000000000000000001f0000000000000000000000000000000000000000000000000000000000000000000000000000000100000020fb74aa20fb74aa000000000000000000000000000000001f0000000000000000000000000000000000000000000000000000000000000000000000000000000100000064fb74aa64fb74aa000000000000000000000000000000001f000000c0aba841010010013806de000000000000000000110400000000000001000000307f44ba487f44ba487f44ba00000000"
+      },
+      {
+        "address": "0xaa750520",
+        "typeRaw": 2,
+        "displayName": "BOT",
+        "aiDifficultyRaw": "normal",
+        "armyRaw": "ger",
+        "memberIdRaw": 3,
+        "readyRaw": 0,
+        "identityWordsRaw": [
+          0,
+          0
+        ],
+        "strings": [
+          {
+            "offset": 12,
+            "value": "BOT"
+          },
+          {
+            "offset": 80,
+            "value": "b"
+          },
+          {
+            "offset": 216,
+            "value": "ger"
+          },
+          {
+            "offset": 284,
+            "value": "normal"
+          }
+        ],
+        "rawHex": "4c06de000200000003000000424f5400000000000000000000000000030000000f000000f4b9b786620000000000000000000000000000000000000000000000000000000000000001000000480575aa480575aa000000000000000000000000010000001f000000000000000000000000000000000000000000000000000000000000000000000000000000010000008c0575aa8c0575aa000000000000000000000000000000001f0000000b8f733d676572000000000000000000000000000000000000000000000000000000000001000000d00575aad00575aa000000000000000000000000030000001f000000c9105d106e6f726d616c000000000000000000000000000000000000000000000000000001000000140675aa140675aa000000000000000000000000060000001f00000000000000000000003806de00000000000000000000000000000000000000000000000000000000000000000000000000"
+      },
+      {
+        "address": "0xaa751470",
+        "typeRaw": 2,
+        "displayName": "BOT",
+        "aiDifficultyRaw": "normal",
+        "armyRaw": "usa",
+        "memberIdRaw": 5,
+        "readyRaw": 0,
+        "identityWordsRaw": [
+          0,
+          0
+        ],
+        "strings": [
+          {
+            "offset": 12,
+            "value": "BOT"
+          },
+          {
+            "offset": 80,
+            "value": "a"
+          },
+          {
+            "offset": 216,
+            "value": "usa"
+          },
+          {
+            "offset": 284,
+            "value": "normal"
+          }
+        ],
+        "rawHex": "4c06de000200000005000000424f5400000000000000000000000000030000000f0000005e5f6892610000000000000000000000000000000000000000000000000000000000000001000000981475aa981475aa000000000000000000000000010000001f00000000000000000000000000000000000000000000000000000000000000000000000000000001000000dc1475aadc1475aa000000000000000000000000000000001f000000906a6084757361000000000000000000000000000000000000000000000000000000000001000000201575aa201575aa000000000000000000000000030000001f000000c9105d106e6f726d616c000000000000000000000000000000000000000000000000000001000000641575aa641575aa000000000000000000000000060000001f00000000000000000000003806de00000000000000000000000000000000000000000000000000000000000000000000000000"
+      }
+    ],
+    "snapshot": {
+      "pid": 20868,
+      "base": "0x400000",
+      "ticks": 1729,
+      "loopThread": 3816,
+      "core": "0x4e18fc60",
+      "coreVtable": 14833248,
+      "session": "0x4e147dc0",
+      "sessionVtable": 14284612,
+      "pipeline": "0x507ecaf0",
+      "stage": "0x51d3b820",
+      "stageVtable": 14876208,
+      "page": "0x50ed7800",
+      "pageVtable": 14855768,
+      "pageName": "multiplayer",
+      "service": "0x0",
+      "serviceVtable": 0,
+      "card": "0x0",
+      "cardVtable": 0,
+      "map": null
+    }
+  }
+}

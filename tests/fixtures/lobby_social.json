@@ -1,0 +1,265 @@
+{
+  "roster": {
+    "rows": [
+      {
+        "typeRaw": 1,
+        "memberIdRaw": 2,
+        "displayName": "Player17",
+        "identityWordsRaw": [629669886, 17825791]
+      },
+      {
+        "typeRaw": 1,
+        "memberIdRaw": 3,
+        "displayName": "Player07",
+        "identityWordsRaw": [629669888, 17825791]
+      }
+    ],
+    "steamLobbyId": "100000000000000001",
+    "hostMemberIdRaw": 2,
+    "localMemberIdRaw": 2
+  },
+  "members": [
+    {
+      "address": "0x3dd27ce0",
+      "parent": "0x50dd3570",
+      "name": "3dd27ce0",
+      "vtable": 14213900,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x4d2fcfd0",
+      "parent": "0x3dd27ce0",
+      "name": "4d2fcfd0",
+      "vtable": 14735832,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x4d2fc440",
+      "parent": "0x4d2fcfd0",
+      "name": "4d2fc440",
+      "vtable": 14741996,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x4d2fd4f0",
+      "parent": "0x4d2fcfd0",
+      "name": "4d2fd4f0",
+      "vtable": 14741004,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x4d2fbb50",
+      "parent": "0x4d2fcfd0",
+      "name": "4d2fbb50",
+      "vtable": 14741004,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x4f8ffcc0",
+      "parent": "0x3dd27ce0",
+      "name": "3",
+      "vtable": 14167564,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x52bddb50",
+      "parent": "0x4f8ffcc0",
+      "name": "52bddb50",
+      "vtable": 14162932,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x52bdc8d0",
+      "parent": "0x52bddb50",
+      "name": "52bdc8d0",
+      "vtable": 14162932,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x52d15010",
+      "parent": "0x4f8ffcc0",
+      "name": "52d15010",
+      "vtable": 14233816,
+      "text": "Player07",
+      "hint": ""
+    },
+    {
+      "address": "0x52bdeb80",
+      "parent": "0x4f8ffcc0",
+      "name": "52bdeb80",
+      "vtable": 14162932,
+      "text": "",
+      "hint": "193 Games played"
+    },
+    {
+      "address": "0x52bdca00",
+      "parent": "0x4f8ffcc0",
+      "name": "52bdca00",
+      "vtable": 14162932,
+      "text": "",
+      "hint": "0 Ranked games played"
+    },
+    {
+      "address": "0x4f900860",
+      "parent": "0x3dd27ce0",
+      "name": "2",
+      "vtable": 14167564,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x52bde490",
+      "parent": "0x4f900860",
+      "name": "52bde490",
+      "vtable": 14162932,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x52bdd6b0",
+      "parent": "0x52bde490",
+      "name": "52bdd6b0",
+      "vtable": 14162932,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x52a0c860",
+      "parent": "0x4f900860",
+      "name": "52a0c860",
+      "vtable": 14233816,
+      "text": "<c(fece99)>Player17",
+      "hint": ""
+    },
+    {
+      "address": "0x52bde120",
+      "parent": "0x4f900860",
+      "name": "52bde120",
+      "vtable": 14162932,
+      "text": "",
+      "hint": "1044 Games played"
+    },
+    {
+      "address": "0x52bde930",
+      "parent": "0x4f900860",
+      "name": "52bde930",
+      "vtable": 14162932,
+      "text": "",
+      "hint": "0 Ranked games played"
+    }
+  ],
+  "messages": [
+    {
+      "address": "0x3dd28550",
+      "parent": "0x50dd3480",
+      "name": "3dd28550",
+      "vtable": 14213900,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x4d2fa2f0",
+      "parent": "0x3dd28550",
+      "name": "4d2fa2f0",
+      "vtable": 14735832,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x4d2f9f20",
+      "parent": "0x4d2fa2f0",
+      "name": "4d2f9f20",
+      "vtable": 14741996,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x4d2f9620",
+      "parent": "0x4d2fa2f0",
+      "name": "4d2f9620",
+      "vtable": 14741004,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x4d2fa440",
+      "parent": "0x4d2fa2f0",
+      "name": "4d2fa440",
+      "vtable": 14741004,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x50d2f1a0",
+      "parent": "0x3dd28550",
+      "name": "50d2f1a0",
+      "vtable": 14167564,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x500f53b0",
+      "parent": "0x50d2f1a0",
+      "name": "Player17",
+      "vtable": 14233816,
+      "text": "<c(4c4945)>[19:41:24] <c(fece99)>Player17: ",
+      "hint": ""
+    },
+    {
+      "address": "0x4ffb8940",
+      "parent": "0x50d2f1a0",
+      "name": "4ffb8940",
+      "vtable": 14733864,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x4e474100",
+      "parent": "0x4ffb8940",
+      "name": "4e474100",
+      "vtable": 14737168,
+      "text": "Test123",
+      "hint": ""
+    },
+    {
+      "address": "0x500f4690",
+      "parent": "0x4e474100",
+      "name": "500f4690",
+      "vtable": 14233816,
+      "text": "<f(arial_narrow)s(15)p(0)c(0 0 0)y.>Test123",
+      "hint": ""
+    },
+    {
+      "address": "0x500f4230",
+      "parent": "0x4e474100",
+      "name": "500f4230",
+      "vtable": 14233816,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x500f48c0",
+      "parent": "0x4e474100",
+      "name": "500f48c0",
+      "vtable": 14233816,
+      "text": "",
+      "hint": ""
+    },
+    {
+      "address": "0x500f3a80",
+      "parent": "0x4e474100",
+      "name": "500f3a80",
+      "vtable": 14233816,
+      "text": "",
+      "hint": ""
+    }
+  ]
+}

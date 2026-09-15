@@ -1,0 +1,32 @@
+CURRENT CLI QUICK NOTES — reviewed 2026-09-06
+
+Actual checkout: <project-root>
+Docs index: docs/INDEX.md
+Current behavior / known issues: docs/STATUS.md
+The old pasted MOW\_Automation\headless\_host.py spelling is not a real path here.
+Use plain underscores in map and army IDs; do not paste Markdown backslashes.
+
+RECORD MANUAL GAMES (no settings/start/chat actions):
+py "headless_host.py" friends-host --record-only
+
+AUTOMATIC 2v2, GER_SS VS USA, OPTIONAL GM ENABLED:
+py "headless_host.py" friends-host --minimize --min-players 4 --rating-profile robz-battle-zones --expected-map "multi/3v3_big_desert_town:battle_zones" --team-a-army ger_ss --team-b-army usa --game-master --gm-model gpt-6-astra --gm-reasoning low --gm-mode ambient --gm-cooldown 20 --gm-timeout 45 --gm-context 12 --gm-max-chars 120
+
+STATUS (second terminal):
+py "headless_host.py" friends-status --json
+
+STOP CONTROLLER:
+py "headless_host.py" friends-stop
+
+HELP (does not launch the game):
+py "headless_host.py" --help
+
+TESTS (does not launch the game):
+py "tests\run.py"
+
+Keep Game Result visible until results are saved in record-only mode.
+Do not run a second controller against the same game. Restart to load code changes.
+Native browser player count is unchanged. Ready/countdown announcements are disabled.
+No automatic crash recovery or experimental memory cleanup runs in these commands.
+QuickEdit text selection can pause the classic console; disable QuickEdit or press
+Esc to clear an active selection. An unresponsive game still requires separate diagnosis.
